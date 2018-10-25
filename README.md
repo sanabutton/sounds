@@ -1,5 +1,8 @@
 www.natorisana.love の音源を管理するリポジトリ
 
+別の場所（例えば管理人の自宅サーバや、他のストレージサービスなど）に移管する可能性があります。
+このリポジトリの存在に依存したものは、作らないでください。
+
 ISSUE は https://github.com/sanabutton/sanabutton.github.io/issues で管理しています。
 
 このリポジトリのファイルは、商用利用できません。
